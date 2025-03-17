@@ -27,7 +27,7 @@ How to self-host MageAI with Docker Desktop - https://docs.mage.ai/getting-start
 
 
 ## Dataset Used
-Yellow Taxi Trip Records of November 2024 - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+Yellow Taxi Trip Records of November 2024 - https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-11.parquet
 
 The data was sampled out from 1.3 million to a hundred thousand of records
 ```python
@@ -43,6 +43,7 @@ df['trip_id'] = df.index
 ```
 
 The final dataset - https://storage.googleapis.com/tlc-yellow-2024-11-project/tlc_yellow_2024_11.parquet
+
 
 More info about dataset can be found here:
 1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
