@@ -53,6 +53,7 @@ More info about dataset can be found here:
 <img src="data_model.png">
 
 ## Lookup Studio Dashboard
-[The Dashboard](https://lookerstudio.google.com/reporting/e0e7f22b-9c7e-44dd-86d1-e1b93a54c563)
+[The Dashboard](https://lookerstudio.google.com/reporting/e0e7f22b-9c7e-44dd-86d1-e1b93a54c563/page/5S28E)
+
 
 <img src="lookerstudio.png">
