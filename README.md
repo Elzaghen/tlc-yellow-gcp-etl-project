@@ -19,7 +19,7 @@ The goal of this project is to demonstrate an end-to-end workflow of Data Engine
 Google Cloud Platform
 - Google Cloud Storage - [example](./google_cloud_storage.png)
 - Google BigQuery - [example](./bigquery.png)
-- Looker Studio - [Link](./lookerstudio.png)
+- Looker Studio - [example](./lookerstudio.png)
 
 Modern Data Pipeine Tool - https://www.mage.ai/
 
